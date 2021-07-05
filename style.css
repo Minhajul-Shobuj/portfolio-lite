@@ -73,3 +73,12 @@ footer{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(6, 49, 241);
 }
+#name{
+    color: rgba(216, 13, 148, 0.719);
+}
+#big{
+    color: blueviolet;
+}
+#web{
+    color: rgb(43, 226, 58);
+}
